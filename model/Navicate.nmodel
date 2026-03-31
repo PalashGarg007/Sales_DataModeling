@@ -1,0 +1,1745 @@
+{
+  "RootObjectUUID": "7E72E2F5-A56B-4880-80B4-6CD1196FC1C7",
+  "MetaVersion": "17.0.0000",
+  "ObjectJsons": {
+    "6CAE2B8E-CC1E-426B-81ED-A64006D2325D": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "What?",
+        "ObjectTypeID": "MVDiagramShape_Relation",
+        "ObjectTypeDisplayName": "MVDiagramShape_Relation",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "LineCommon": {
+          "Vertices": [
+            {
+              "X": 0,
+              "Y": 0
+            },
+            {
+              "X": 90,
+              "Y": 0
+            }
+          ],
+          "Color": {
+            "R": 204,
+            "G": 204,
+            "B": 204,
+            "A": {
+              "Value": 1.0
+            },
+            "UsingThemeColor": true
+          },
+          "LineWidth": 1,
+          "BeginOffset": 0,
+          "EndOffset": 0,
+          "CapStyle": "Butt",
+          "DashStyle": "None",
+          "JoinStyle": "Miter",
+          "AsConnector": true,
+          "ShowName": true,
+          "NamePosition": "Begin",
+          "ConnectInfos": [
+            {
+              "Index": 0,
+              "RefUUID": "B318A1EB-856C-4773-B880-1992E207ADC9"
+            },
+            {
+              "Index": 1,
+              "RefUUID": "27AE5C43-4427-4091-AE67-4236DF92B5DA"
+            }
+          ]
+        },
+        "ArrowCommon": {
+          "BeginStyle": "None",
+          "EndStyle": "None"
+        },
+        "ConnectorCommon": {
+          "Type": "Elbow",
+          "VertexMode": "AutoArrange",
+          "StartAxis": "Horizontal"
+        },
+        "RelationCommon": {
+          "OldVersion": false,
+          "Visible": true,
+          "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825"
+        }
+      }
+    ],
+    "1204F4CE-8940-4C2D-84CF-5497FCFD59A3": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "When?",
+        "ObjectTypeID": "MVDiagramShape_Relation",
+        "ObjectTypeDisplayName": "MVDiagramShape_Relation",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "LineCommon": {
+          "Vertices": [
+            {
+              "X": 0,
+              "Y": 0
+            },
+            {
+              "X": 0,
+              "Y": 50
+            }
+          ],
+          "Color": {
+            "R": 204,
+            "G": 204,
+            "B": 204,
+            "A": {
+              "Value": 1.0
+            },
+            "UsingThemeColor": true
+          },
+          "LineWidth": 1,
+          "BeginOffset": 0,
+          "EndOffset": 0,
+          "CapStyle": "Butt",
+          "DashStyle": "None",
+          "JoinStyle": "Miter",
+          "AsConnector": true,
+          "ShowName": true,
+          "NamePosition": "Begin",
+          "ConnectInfos": [
+            {
+              "Index": 0,
+              "RefUUID": "B318A1EB-856C-4773-B880-1992E207ADC9"
+            },
+            {
+              "Index": 1,
+              "RefUUID": "D3AAAB13-A66A-457A-8544-CC60CD256DEA"
+            }
+          ]
+        },
+        "ArrowCommon": {
+          "BeginStyle": "None",
+          "EndStyle": "None"
+        },
+        "ConnectorCommon": {
+          "Type": "Elbow",
+          "VertexMode": "AutoArrange",
+          "StartAxis": "Vertical"
+        },
+        "RelationCommon": {
+          "OldVersion": false,
+          "Visible": true,
+          "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825"
+        }
+      }
+    ],
+    "1D259D35-8B08-4D7A-8F6C-C45EA16726AB": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "Where?",
+        "ObjectTypeID": "MVDiagramShape_Relation",
+        "ObjectTypeDisplayName": "MVDiagramShape_Relation",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "LineCommon": {
+          "Vertices": [
+            {
+              "X": 0,
+              "Y": 60
+            },
+            {
+              "X": 0,
+              "Y": 0
+            }
+          ],
+          "Color": {
+            "R": 204,
+            "G": 204,
+            "B": 204,
+            "A": {
+              "Value": 1.0
+            },
+            "UsingThemeColor": true
+          },
+          "LineWidth": 1,
+          "BeginOffset": 0,
+          "EndOffset": 0,
+          "CapStyle": "Butt",
+          "DashStyle": "None",
+          "JoinStyle": "Miter",
+          "AsConnector": true,
+          "ShowName": true,
+          "NamePosition": "Begin",
+          "ConnectInfos": [
+            {
+              "Index": 0,
+              "RefUUID": "B318A1EB-856C-4773-B880-1992E207ADC9"
+            },
+            {
+              "Index": 1,
+              "RefUUID": "FFDE91D9-1A61-405F-9F68-A77B5CCC562E"
+            }
+          ]
+        },
+        "ArrowCommon": {
+          "BeginStyle": "None",
+          "EndStyle": "None"
+        },
+        "ConnectorCommon": {
+          "Type": "Elbow",
+          "VertexMode": "AutoArrange",
+          "StartAxis": "Vertical"
+        },
+        "RelationCommon": {
+          "OldVersion": false,
+          "Visible": true,
+          "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825"
+        }
+      }
+    ],
+    "EFDAD884-6E23-497D-9A83-D3965513739D": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_CUSTOMER",
+        "ObjectTypeID": "MVDiagramModelObject_Table",
+        "ObjectTypeDisplayName": "MVDiagramModelObject_Table",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "RefUUID": "14474535-007D-404A-A260-3C3535D424F4",
+        "DisplayMode": "Auto",
+        "Color": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          }
+        },
+        "IsBold": false
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "RefUUID": "14474535-007D-404A-A260-3C3535D424F4",
+        "DisplayMode": "Auto",
+        "ThemeColor": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          },
+          "UsingThemeColor": false
+        },
+        "IsBold": false
+      }
+    ],
+    "F149337F-C1A0-437C-BD6B-6C541E6A97E4": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "Who?",
+        "ObjectTypeID": "MVDiagramShape_Relation",
+        "ObjectTypeDisplayName": "MVDiagramShape_Relation",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "LineCommon": {
+          "Vertices": [
+            {
+              "X": 90,
+              "Y": 0
+            },
+            {
+              "X": 0,
+              "Y": 0
+            }
+          ],
+          "Color": {
+            "R": 204,
+            "G": 204,
+            "B": 204,
+            "A": {
+              "Value": 1.0
+            },
+            "UsingThemeColor": true
+          },
+          "LineWidth": 1,
+          "BeginOffset": 0,
+          "EndOffset": 0,
+          "CapStyle": "Butt",
+          "DashStyle": "None",
+          "JoinStyle": "Miter",
+          "AsConnector": true,
+          "ShowName": true,
+          "NamePosition": "Begin",
+          "ConnectInfos": [
+            {
+              "Index": 0,
+              "RefUUID": "B318A1EB-856C-4773-B880-1992E207ADC9"
+            },
+            {
+              "Index": 1,
+              "RefUUID": "EFDAD884-6E23-497D-9A83-D3965513739D"
+            }
+          ]
+        },
+        "ArrowCommon": {
+          "BeginStyle": "None",
+          "EndStyle": "None"
+        },
+        "ConnectorCommon": {
+          "Type": "Elbow",
+          "VertexMode": "AutoArrange",
+          "StartAxis": "Horizontal"
+        },
+        "RelationCommon": {
+          "OldVersion": false,
+          "Visible": true,
+          "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825"
+        }
+      }
+    ],
+    "27AE5C43-4427-4091-AE67-4236DF92B5DA": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_PRODUCT",
+        "ObjectTypeID": "MVDiagramModelObject_Table",
+        "ObjectTypeDisplayName": "MVDiagramModelObject_Table",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "RefUUID": "7544EA9A-4970-4D09-94F6-AEA1E7993733",
+        "DisplayMode": "Auto",
+        "Color": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          }
+        },
+        "IsBold": false
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "RefUUID": "7544EA9A-4970-4D09-94F6-AEA1E7993733",
+        "DisplayMode": "Auto",
+        "ThemeColor": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          },
+          "UsingThemeColor": false
+        },
+        "IsBold": false
+      }
+    ],
+    "D3AAAB13-A66A-457A-8544-CC60CD256DEA": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_Date",
+        "ObjectTypeID": "MVDiagramModelObject_Table",
+        "ObjectTypeDisplayName": "MVDiagramModelObject_Table",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "RefUUID": "911CFC2B-0FE9-436D-8419-2AFB2E95629F",
+        "DisplayMode": "Auto",
+        "Color": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          }
+        },
+        "IsBold": false
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "RefUUID": "911CFC2B-0FE9-436D-8419-2AFB2E95629F",
+        "DisplayMode": "Auto",
+        "ThemeColor": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          },
+          "UsingThemeColor": false
+        },
+        "IsBold": false
+      }
+    ],
+    "FFDE91D9-1A61-405F-9F68-A77B5CCC562E": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_STORE",
+        "ObjectTypeID": "MVDiagramModelObject_Table",
+        "ObjectTypeDisplayName": "MVDiagramModelObject_Table",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "RefUUID": "C804E3B4-C313-4A05-BAD6-613128E068E1",
+        "DisplayMode": "Auto",
+        "Color": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          }
+        },
+        "IsBold": false
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "RefUUID": "C804E3B4-C313-4A05-BAD6-613128E068E1",
+        "DisplayMode": "Auto",
+        "ThemeColor": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          },
+          "UsingThemeColor": false
+        },
+        "IsBold": false
+      }
+    ],
+    "667B5607-7676-4853-AD0F-D053BD0BB8B0": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "Diagram_1",
+        "ObjectTypeID": "Diagram",
+        "ObjectTypeDisplayName": "Diagram",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "83B0536E-C218-4739-88A9-81124D041E9B"
+        ]
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "Name": "Diagram_1",
+        "DefaultModel": "6F642574-697A-4DA4-BC22-97A895997DC1",
+        "CreateTime": 1774111584,
+        "ModifyTime": 1774964066
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "Remarks": ""
+      }
+    ],
+    "884ECECF-CB24-4D57-BF8F-4E03F6CA8430": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "Snowflake",
+        "ObjectTypeID": "Server_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Server_SNOWFLAKE",
+        "ObjectVersion": "17.2.0003",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "555CBE09-1062-49B5-A934-375D895EAEFF"
+        ]
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "Name": "Snowflake",
+        "ServerVersion": 70000,
+        "ServerSettings": {
+          "Host": "",
+          "Warehouse": "",
+          "ConnectionRole": "",
+          "UserName": "",
+          "SavePassword": false,
+          "AutoConnect": false,
+          "SessionLimit": 0,
+          "InitialSessionQueries": "",
+          "ConfigMethod": "Default",
+          "DataSourceName": "",
+          "NativeSSOUrl": "",
+          "UseMFAPasscode": false
+        },
+        "Remarks": ""
+      },
+      {
+        "_VERSION_": "17.2.0003",
+        "ServerSettings": {
+          "ConnectionParameters": ""
+        }
+      }
+    ],
+    "CF520F2A-2703-4C06-978E-8EBD271EE825": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "SALES_FACT",
+        "ObjectTypeID": "Table_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Table_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "TableCommon": {
+          "Fields": [
+            {
+              "Name": "QuantitySold",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "UnitPricePaid",
+              "Type": "DECIMAL",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "DiscountAmount",
+              "Type": "DECIMAL",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Tax_Amount",
+              "Type": "DECIMAL",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "TotalSalesAmount",
+              "Type": "DECIMAL",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Transaction_ID",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": false,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Product_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Customer_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Date_Key",
+              "Type": "DATE",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Store_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            }
+          ],
+          "Indexes": [],
+          "ForeignKeys": [
+            {
+              "Name": "What?",
+              "Fields": [
+                "Product_SK"
+              ],
+              "ReferenceSchema": "PUBLIC",
+              "ReferenceTable": "DIM_PRODUCT",
+              "ReferenceFields": [
+                "Product_SKU"
+              ],
+              "OnDelete": "",
+              "OnUpdate": "",
+              "Rely": false,
+              "Comment": "",
+              "SourceCardinality": "ZeroOrManyRelationship",
+              "TargetCardinality": "OneAndOnlyOneRelationship"
+            },
+            {
+              "Name": "Who?",
+              "Fields": [
+                "Customer_SK"
+              ],
+              "ReferenceSchema": "PUBLIC",
+              "ReferenceTable": "DIM_CUSTOMER",
+              "ReferenceFields": [
+                "Customer_ID"
+              ],
+              "OnDelete": "",
+              "OnUpdate": "",
+              "Rely": false,
+              "Comment": "",
+              "SourceCardinality": "ZeroOrManyRelationship",
+              "TargetCardinality": "OneAndOnlyOneRelationship"
+            },
+            {
+              "Name": "Where?",
+              "Fields": [
+                "Store_SK"
+              ],
+              "ReferenceSchema": "PUBLIC",
+              "ReferenceTable": "DIM_STORE",
+              "ReferenceFields": [
+                "Store_SK"
+              ],
+              "OnDelete": "",
+              "OnUpdate": "",
+              "Rely": false,
+              "Comment": "",
+              "SourceCardinality": "ZeroOrManyRelationship",
+              "TargetCardinality": "OneAndOnlyOneRelationship"
+            },
+            {
+              "Name": "When?",
+              "Fields": [
+                "Date_Key"
+              ],
+              "ReferenceSchema": "PUBLIC",
+              "ReferenceTable": "DIM_Date",
+              "ReferenceFields": [
+                "Date_Key"
+              ],
+              "OnDelete": "",
+              "OnUpdate": "",
+              "Rely": false,
+              "Comment": "",
+              "SourceCardinality": "OneOrManyRelationship",
+              "TargetCardinality": "OneAndOnlyOneRelationship"
+            }
+          ],
+          "Uniques": [],
+          "PrimaryKey": {
+            "Name": "",
+            "Fields": [
+              "Transaction_ID",
+              "Transaction_ID"
+            ],
+            "Rely": false,
+            "Comment": ""
+          },
+          "TableDuration": "Default",
+          "EnableSchemaEvolution": false,
+          "DataRetentionTimeInDays": -1,
+          "MaxDataExtensionTimeInDays": -1,
+          "ChangeTracking": false,
+          "DefaultDDLCollation": "",
+          "ClusterBy": "",
+          "TargetLagDownstream": false,
+          "TargetLagValue": -1,
+          "TargetLagUnit": "Seconds",
+          "WarehouseName": "",
+          "Query": "",
+          "RefreshMode": "Auto",
+          "InitializeMode": "OnCreate",
+          "Comment": "",
+          "ModelOption": {
+            "DimensionalRole": "Unknown",
+            "DataVaultComponent": "Unknown"
+          },
+          "ModelViewFields": []
+        }
+      }
+    ],
+    "C804E3B4-C313-4A05-BAD6-613128E068E1": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_STORE",
+        "ObjectTypeID": "Table_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Table_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "TableCommon": {
+          "Fields": [
+            {
+              "Name": "Store_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": false,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Store_Name",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Store_Region",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Store_ID",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            }
+          ],
+          "Indexes": [],
+          "ForeignKeys": [],
+          "Uniques": [],
+          "PrimaryKey": {
+            "Name": "",
+            "Fields": [
+              "Store_SK"
+            ],
+            "Rely": false,
+            "Comment": ""
+          },
+          "TableDuration": "Default",
+          "EnableSchemaEvolution": false,
+          "DataRetentionTimeInDays": -1,
+          "MaxDataExtensionTimeInDays": -1,
+          "ChangeTracking": false,
+          "DefaultDDLCollation": "",
+          "ClusterBy": "",
+          "TargetLagDownstream": false,
+          "TargetLagValue": -1,
+          "TargetLagUnit": "Seconds",
+          "WarehouseName": "",
+          "Query": "",
+          "RefreshMode": "Auto",
+          "InitializeMode": "OnCreate",
+          "Comment": "",
+          "ModelOption": {
+            "DimensionalRole": "Unknown",
+            "DataVaultComponent": "Unknown"
+          },
+          "ModelViewFields": []
+        }
+      }
+    ],
+    "7544EA9A-4970-4D09-94F6-AEA1E7993733": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_PRODUCT",
+        "ObjectTypeID": "Table_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Table_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "TableCommon": {
+          "Fields": [
+            {
+              "Name": "Product_SKU",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Product_Name",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Product_Category",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Product_SubCategory",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Brand",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "MSRP",
+              "Type": "DECIMAL",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Start_Date",
+              "Type": "DATE",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "End_Date",
+              "Type": "DATE",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "IsCurrent",
+              "Type": "BOOLEAN",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Product_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": false,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            }
+          ],
+          "Indexes": [],
+          "ForeignKeys": [],
+          "Uniques": [],
+          "PrimaryKey": {
+            "Name": "",
+            "Fields": [
+              "Product_SK"
+            ],
+            "Rely": false,
+            "Comment": ""
+          },
+          "TableDuration": "Default",
+          "EnableSchemaEvolution": false,
+          "DataRetentionTimeInDays": -1,
+          "MaxDataExtensionTimeInDays": -1,
+          "ChangeTracking": false,
+          "DefaultDDLCollation": "",
+          "ClusterBy": "",
+          "TargetLagDownstream": false,
+          "TargetLagValue": -1,
+          "TargetLagUnit": "Seconds",
+          "WarehouseName": "",
+          "Query": "",
+          "RefreshMode": "Auto",
+          "InitializeMode": "OnCreate",
+          "Comment": "",
+          "ModelOption": {
+            "DimensionalRole": "Unknown",
+            "DataVaultComponent": "Unknown"
+          },
+          "ModelViewFields": []
+        }
+      }
+    ],
+    "14474535-007D-404A-A260-3C3535D424F4": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_CUSTOMER",
+        "ObjectTypeID": "Table_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Table_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "TableCommon": {
+          "Fields": [
+            {
+              "Name": "Customer_ID",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Customer_SK",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": false,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            }
+          ],
+          "Indexes": [],
+          "ForeignKeys": [],
+          "Uniques": [],
+          "PrimaryKey": {
+            "Name": "",
+            "Fields": [
+              "Customer_SK"
+            ],
+            "Rely": false,
+            "Comment": ""
+          },
+          "TableDuration": "Default",
+          "EnableSchemaEvolution": false,
+          "DataRetentionTimeInDays": -1,
+          "MaxDataExtensionTimeInDays": -1,
+          "ChangeTracking": false,
+          "DefaultDDLCollation": "",
+          "ClusterBy": "",
+          "TargetLagDownstream": false,
+          "TargetLagValue": -1,
+          "TargetLagUnit": "Seconds",
+          "WarehouseName": "",
+          "Query": "",
+          "RefreshMode": "Auto",
+          "InitializeMode": "OnCreate",
+          "Comment": "",
+          "ModelOption": {
+            "DimensionalRole": "Unknown",
+            "DataVaultComponent": "Unknown"
+          },
+          "ModelViewFields": []
+        }
+      }
+    ],
+    "555CBE09-1062-49B5-A934-375D895EAEFF": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DEFAULT",
+        "ObjectTypeID": "Catalog_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Catalog_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "C3271F91-C00C-4D23-AB14-0B67A3DCC895"
+        ]
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "Name": "DEFAULT",
+        "Type": "Standard",
+        "CreateSecondaryDatabase": false,
+        "PrimaryAccountName": "",
+        "PrimaryDatabaseName": "",
+        "IsTransient": false,
+        "DataRetentionTimeInDays": -1,
+        "MaxDataExtensionTimeInDays": -1,
+        "ExternalVolume": "",
+        "CatalogIntegration": "",
+        "ReplaceInvalidCharacters": false,
+        "DefaultDDLCollation": "",
+        "LogLevel": "",
+        "TraceLevel": "",
+        "StorageSerializationPolicy": "",
+        "Comment": ""
+      }
+    ],
+    "911CFC2B-0FE9-436D-8419-2AFB2E95629F": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "DIM_Date",
+        "ObjectTypeID": "Table_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Table_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "TableCommon": {
+          "Fields": [
+            {
+              "Name": "Date_Key",
+              "Type": "DATE",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": false,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": true,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Month_Num",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Quarter_Num",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Day_Num",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "year_Num",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Week_Num",
+              "Type": "INT",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            },
+            {
+              "Name": "Month_Name",
+              "Type": "STRING",
+              "Length": -2147483648,
+              "Scale": -2147483648,
+              "IsNullable": true,
+              "DefaultValueType": "None",
+              "DefaultValue": "",
+              "IsVirtual": false,
+              "VirtualExpr": "",
+              "Collate": "",
+              "IsIdentity": false,
+              "IdentityStart": 1,
+              "IdentityIncrement": 1,
+              "IdentityOrder": "Default",
+              "Comment": ""
+            }
+          ],
+          "Indexes": [],
+          "ForeignKeys": [],
+          "Uniques": [],
+          "PrimaryKey": {
+            "Name": "",
+            "Fields": [
+              "Date_Key"
+            ],
+            "Rely": false,
+            "Comment": ""
+          },
+          "TableDuration": "Default",
+          "EnableSchemaEvolution": false,
+          "DataRetentionTimeInDays": -1,
+          "MaxDataExtensionTimeInDays": -1,
+          "ChangeTracking": false,
+          "DefaultDDLCollation": "",
+          "ClusterBy": "",
+          "TargetLagDownstream": false,
+          "TargetLagValue": -1,
+          "TargetLagUnit": "Seconds",
+          "WarehouseName": "",
+          "Query": "",
+          "RefreshMode": "Auto",
+          "InitializeMode": "OnCreate",
+          "Comment": "",
+          "ModelOption": {
+            "DimensionalRole": "Unknown",
+            "DataVaultComponent": "Unknown"
+          },
+          "ModelViewFields": []
+        }
+      }
+    ],
+    "83B0536E-C218-4739-88A9-81124D041E9B": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "",
+        "ObjectTypeID": "MVDiagram",
+        "ObjectTypeDisplayName": "MVDiagram",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "FFDE91D9-1A61-405F-9F68-A77B5CCC562E",
+          "D3AAAB13-A66A-457A-8544-CC60CD256DEA",
+          "27AE5C43-4427-4091-AE67-4236DF92B5DA",
+          "EFDAD884-6E23-497D-9A83-D3965513739D",
+          "B318A1EB-856C-4773-B880-1992E207ADC9",
+          "F149337F-C1A0-437C-BD6B-6C541E6A97E4",
+          "1204F4CE-8940-4C2D-84CF-5497FCFD59A3",
+          "1D259D35-8B08-4D7A-8F6C-C45EA16726AB",
+          "6CAE2B8E-CC1E-426B-81ED-A64006D2325D"
+        ]
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "Notation": "Default",
+        "PaperType": "A4_Landscape",
+        "PaperSize": {
+          "Width": 1753,
+          "Height": 1240
+        },
+        "PagesSize": {
+          "Width": 1,
+          "Height": 1
+        },
+        "BlackAndWhite": false,
+        "DatabaseObjectFontName": "Default",
+        "DatabaseObjectFontSize": 14,
+        "ShowDatabaseObjectComments": false,
+        "ShowTableFieldComments": false,
+        "ShowDatabaseName": false,
+        "DiagramObjects": [
+          {
+            "Name": "DIM_STORE",
+            "Rect": {
+              "X": 320,
+              "Y": 70,
+              "Width": 200,
+              "Height": 200
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "FFDE91D9-1A61-405F-9F68-A77B5CCC562E"
+          },
+          {
+            "Name": "DIM_Date",
+            "Rect": {
+              "X": 320,
+              "Y": 660,
+              "Width": 200,
+              "Height": 210
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "D3AAAB13-A66A-457A-8544-CC60CD256DEA"
+          },
+          {
+            "Name": "DIM_PRODUCT",
+            "Rect": {
+              "X": 620,
+              "Y": 330,
+              "Width": 230,
+              "Height": 280
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "27AE5C43-4427-4091-AE67-4236DF92B5DA"
+          },
+          {
+            "Name": "DIM_CUSTOMER",
+            "Rect": {
+              "X": 20,
+              "Y": 370,
+              "Width": 200,
+              "Height": 200
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "EFDAD884-6E23-497D-9A83-D3965513739D"
+          },
+          {
+            "Name": "SALES_FACT",
+            "Rect": {
+              "X": 310,
+              "Y": 330,
+              "Width": 220,
+              "Height": 280
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "B318A1EB-856C-4773-B880-1992E207ADC9"
+          },
+          {
+            "Name": "Who?",
+            "Rect": {
+              "X": 220,
+              "Y": 470,
+              "Width": 90,
+              "Height": 1
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "F149337F-C1A0-437C-BD6B-6C541E6A97E4"
+          },
+          {
+            "Name": "When?",
+            "Rect": {
+              "X": 420,
+              "Y": 610,
+              "Width": 1,
+              "Height": 50
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "1204F4CE-8940-4C2D-84CF-5497FCFD59A3"
+          },
+          {
+            "Name": "Where?",
+            "Rect": {
+              "X": 420,
+              "Y": 270,
+              "Width": 1,
+              "Height": 60
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "1D259D35-8B08-4D7A-8F6C-C45EA16726AB"
+          },
+          {
+            "Name": "What?",
+            "Rect": {
+              "X": 530,
+              "Y": 470,
+              "Width": 90,
+              "Height": 1
+            },
+            "InProportions": false,
+            "IsLocked": false,
+            "RefUUID": "6CAE2B8E-CC1E-426B-81ED-A64006D2325D"
+          }
+        ]
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "ShowTableFieldNotNull": false,
+        "ShowTableSubfields": true
+      }
+    ],
+    "7E72E2F5-A56B-4880-80B4-6CD1196FC1C7": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "",
+        "ObjectTypeID": "ModelWorkspace",
+        "ObjectTypeDisplayName": "ModelWorkspace",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "0DA8C3A0-C974-416B-A749-93303A1A487F",
+          "6F642574-697A-4DA4-BC22-97A895997DC1",
+          "667B5607-7676-4853-AD0F-D053BD0BB8B0"
+        ]
+      },
+      {
+        "_VERSION_": "17.0.0000"
+      }
+    ],
+    "C3271F91-C00C-4D23-AB14-0B67A3DCC895": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "PUBLIC",
+        "ObjectTypeID": "Schema_SNOWFLAKE",
+        "ObjectTypeDisplayName": "Schema_SNOWFLAKE",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "911CFC2B-0FE9-436D-8419-2AFB2E95629F",
+          "7544EA9A-4970-4D09-94F6-AEA1E7993733",
+          "14474535-007D-404A-A260-3C3535D424F4",
+          "C804E3B4-C313-4A05-BAD6-613128E068E1",
+          "CF520F2A-2703-4C06-978E-8EBD271EE825"
+        ]
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "Name": "PUBLIC",
+        "Tables": [
+          {
+            "Name": "DIM_Date",
+            "RefUUID": "911CFC2B-0FE9-436D-8419-2AFB2E95629F"
+          },
+          {
+            "Name": "DIM_PRODUCT",
+            "RefUUID": "7544EA9A-4970-4D09-94F6-AEA1E7993733"
+          },
+          {
+            "Name": "DIM_CUSTOMER",
+            "RefUUID": "14474535-007D-404A-A260-3C3535D424F4"
+          },
+          {
+            "Name": "DIM_STORE",
+            "RefUUID": "C804E3B4-C313-4A05-BAD6-613128E068E1"
+          },
+          {
+            "Name": "SALES_FACT",
+            "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825"
+          }
+        ],
+        "IsTransient": false,
+        "WithManagedAccess": false,
+        "DataRetentionTimeInDays": -1,
+        "MaxDataExtensionTimeInDays": -1,
+        "ExternalVolume": "",
+        "CatalogIntegration": "",
+        "ReplaceInvalidCharacters": false,
+        "DefaultDDLCollation": "",
+        "LogLevel": "",
+        "TraceLevel": "",
+        "StorageSerializationPolicy": "",
+        "Comment": ""
+      }
+    ],
+    "B318A1EB-856C-4773-B880-1992E207ADC9": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "SALES_FACT",
+        "ObjectTypeID": "MVDiagramModelObject_Table",
+        "ObjectTypeDisplayName": "MVDiagramModelObject_Table",
+        "ObjectVersion": "17.0.0001",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825",
+        "DisplayMode": "Auto",
+        "Color": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          }
+        },
+        "IsBold": false
+      },
+      {
+        "_VERSION_": "17.0.0001",
+        "RefUUID": "CF520F2A-2703-4C06-978E-8EBD271EE825",
+        "DisplayMode": "Auto",
+        "ThemeColor": {
+          "R": 55,
+          "G": 131,
+          "B": 192,
+          "A": {
+            "Value": 1.0
+          },
+          "UsingThemeColor": false
+        },
+        "IsBold": false
+      }
+    ],
+    "0DA8C3A0-C974-416B-A749-93303A1A487F": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "MVWorkspace",
+        "ObjectTypeID": "MVWorkspace",
+        "ObjectTypeDisplayName": "MVWorkspace",
+        "ObjectVersion": "17.0.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": []
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "DiagramDefaultPaperType": "A4_Landscape",
+        "DiagramDefaultPaperSize": {
+          "Width": 1753,
+          "Height": 1240
+        }
+      }
+    ],
+    "6F642574-697A-4DA4-BC22-97A895997DC1": [
+      {
+        "_META_": true,
+        "_VERSION_": "",
+        "ObjectName": "Snowflake",
+        "ObjectTypeID": "Model",
+        "ObjectTypeDisplayName": "Model",
+        "ObjectVersion": "17.2.0000",
+        "ResourceUUIDs": [],
+        "ChildObjectUUIDs": [
+          "884ECECF-CB24-4D57-BF8F-4E03F6CA8430"
+        ]
+      },
+      {
+        "_VERSION_": "17.0.0000",
+        "Name": "Snowflake",
+        "DefaultSchema": "C3271F91-C00C-4D23-AB14-0B67A3DCC895",
+        "CaseSensitive": true,
+        "CreateTime": 1774111598,
+        "ModifyTime": 1774964066
+      },
+      {
+        "_VERSION_": "17.2.0000",
+        "ModelingMethod": 0,
+        "Remarks": ""
+      }
+    ]
+  },
+  "ResourcesData": {}
+}
